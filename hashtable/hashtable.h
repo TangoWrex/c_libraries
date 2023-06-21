@@ -1,7 +1,5 @@
 /* @file hashtable.h
- * @brief * @brief This hash table was inspired by Jacob Sorbers hash table video
- *
- * Code reference: https://www.youtube.com/watch?v=KI_V91UdL1I
+ * Void hash table function prototypes
  */
 
 #ifndef HSH_TABLE_H
